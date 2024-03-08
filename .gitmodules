@@ -1,0 +1,9 @@
+[submodule "segmentation"]
+	path = segmentation
+	url = https://github.com/GoshaLetov/barcodes-segmentation.git
+[submodule "ocr"]
+	path = ocr
+	url = https://github.com/GoshaLetov/barcodes-ocr.git
+[submodule "service"]
+	path = service
+	url = https://github.com/GoshaLetov/barcodes-service.git
